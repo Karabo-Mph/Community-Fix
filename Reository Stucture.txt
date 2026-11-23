@@ -1,0 +1,15 @@
+CommunityFix/
+├── frontend/
+│   └── web/
+├── mobile/
+│   └── app/
+├── backend/
+│   └── CommunityFix.API/
+├── database/
+│   └── migrations/
+├── documentation/
+│   ├── proposal/
+│   ├── diagrams/
+│   └── research/
+├── tests/
+└── README.md
